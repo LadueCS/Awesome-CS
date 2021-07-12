@@ -4,8 +4,6 @@ If you're feeling generous, don't forget to contribute back with the cool things
 
 **_Bold_*** items are highly recommended!*
 
-[[TOC]]
-
 ### General
 
 * **[https://drive.google.com/drive/folders/1LpbI-elangfhU9nngAM-0GAKmmUCvti**B](https://drive.google.com/drive/folders/1LpbI-elangfhU9nngAM-0GAKmmUCvtiB)** Watch every meeting recording!**
@@ -20,7 +18,7 @@ If you're feeling generous, don't forget to contribute back with the cool things
 
 * **[https://code.visualstudio.co**m](https://code.visualstudio.com)** Awesome IDE for many languages (free, works everywhere, highly customizable)**
 
-* **[https://kate-editor.org**/](https://kate-editor.org/)** Super fast and powerful no bullsh*t editor that just works™**
+* [https://kate-editor.org/](https://kate-editor.org/) Super fast and powerful editor that just works™
 
 * [https://code.org/](https://code.org/) Coding tutorials
 
@@ -29,6 +27,10 @@ If you're feeling generous, don't forget to contribute back with the cool things
 * [https://discord.gg/uZYJHvzfZH](https://discord.gg/uZYJHvzfZH) Ladue CS Discord
 
 * **[https://matrix.to/#/!wiowujrzEAirReYauW:exozy.me?via=exozy.m**e](https://matrix.to/#/!wiowujrzEAirReYauW:exozy.me?via=exozy.me)** ****Ladue CS Matrix**
+
+* [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) Free programming books
+
+* [https://freecodecamp.org](https://freecodecamp.org) Free coding courses; WARNING: very long!
 
 ### Python
 
@@ -67,6 +69,8 @@ If you're feeling generous, don't forget to contribute back with the cool things
 * [https://www.djangoproject.com/](https://www.djangoproject.com/) Python web framework
 
 * [https://nextjs.org/](https://nextjs.org/) Easy React JavaScript framework
+
+* [https://roadmap.sh/](https://roadmap.sh/) Web developer roadmaps
 
 ### Cybersecurity
 
