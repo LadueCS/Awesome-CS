@@ -24,6 +24,7 @@ Don't forget to contribute with the cool things that you find!
 * https://github.com/EbookFoundation/free-programming-books Free programming books
 * https://cloud.exozy.me/s/x4YcdBYCKPTrfb9 More programming books
 * https://freecodecamp.org Free coding courses
+* https://howtuwu.exozy.me Programming and Linux how-to guides
 
 
 ## Python
