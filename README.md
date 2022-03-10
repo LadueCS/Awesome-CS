@@ -132,6 +132,7 @@ Don't forget to contribute with the cool things that you find!
 * https://ohmygit.org/ A fun game to learn Git, the ultimate time machine
 * https://github.com/k88hudson/git-flight-rules Git cheat sheets
 * https://training.github.com GitHub cheat sheets
+* https://goodfirstissues.com/ Find projects to contribute to
 
 ### Containers
 
