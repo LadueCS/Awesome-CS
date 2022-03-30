@@ -95,8 +95,8 @@ An awesome list of resources for people excited to learn about computer science!
 * **https://ubuntu.com/download/desktop/thank-you?version=20.04.2.0&architecture=amd64 If you want a fun challenge, try installing Ubuntu on your computer and play around with it!**
 * https://askubuntu.com/ Basically Stack Overflow for Ubuntu and Linux
 * https://wiki.archlinux.org/title/Main_page Great source for Linux reference
-* https://linux.die.net/ online man pages
-* https://www.opensuse.org/ the Distro Aiden uses
+* https://linux.die.net/ Online man pages
+* https://www.opensuse.org/ A great Linux distribution
 
 ### C
 
@@ -142,7 +142,6 @@ An awesome list of resources for people excited to learn about computer science!
 * https://github.com/k88hudson/git-flight-rules Git cheat sheets
 * https://training.github.com GitHub cheat sheets
 * https://goodfirstissues.com/ Find projects to contribute to
-* https://github.com/notSam25/ follow my git account
 
 ### Containers
 
