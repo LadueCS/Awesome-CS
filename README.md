@@ -13,7 +13,8 @@ Don't forget to contribute with the cool things that you find!
 * **https://stackoverflow.com/ Godly resource for looking up questions**
 * **https://replit.com/ Great online editor for many programming languages**
 * https://www.gitpod.io/ Online IDE
-* **https://code.visualstudio.com Awesome IDE for many languages (free, works everywhere, highly customizable)**
+* **https://code.visualstudio.com Awesome IDE for many languages (free, works everywhere, highly customizable)** (also [VSCodium](https://vscodium.com/))
+* **https://neovim.io/ Emacs? More like Ewmacs**
 * https://kate-editor.org/ Super fast and powerful editor that just works™
 * https://code.org/ Coding tutorials
 * **https://github.com/LadueCS Ladue CS GitHub**
