@@ -8,13 +8,14 @@ Don't forget to contribute with the cool things that you find!
 
 
 ## General
-
+ 
 * **https://drive.google.com/drive/folders/1LpbI-elangfhU9nngAM-0GAKmmUCvtiB Watch every meeting recording!**
 * **https://stackoverflow.com/ Godly resource for looking up questions**
 * **https://replit.com/ Great online editor for many programming languages**
 * https://www.gitpod.io/ Online IDE
 * **https://code.visualstudio.com Awesome IDE for many languages (free, works everywhere, highly customizable)** (also [VSCodium](https://vscodium.com/))
 * **https://neovim.io/ Emacs? More like Ewmacs**
+* https://spacevim.org/ Emacs? More like vim(acs) with a good theme. Also, it's really good
 * https://kate-editor.org/ Super fast and powerful editor that just works™
 * https://code.org/ Coding tutorials
 * **https://github.com/LadueCS Ladue CS GitHub**
@@ -59,6 +60,8 @@ Don't forget to contribute with the cool things that you find!
 * https://validator.w3.org/ Check your HTML 
 * https://simpleicons.org/ Simple icons for common brands
 * https://feathericons.com/ Another set of nice icons
+* https://devicon.dev/ Development related icons. MIT license!
+* https://reactjs.org/ Modern UI library
 
 ### Backend
 
@@ -92,6 +95,8 @@ Don't forget to contribute with the cool things that you find!
 * **https://ubuntu.com/download/desktop/thank-you?version=20.04.2.0&architecture=amd64 If you want a fun challenge, try installing Ubuntu on your computer and play around with it!**
 * https://askubuntu.com/ Basically Stack Overflow for Ubuntu and Linux
 * https://wiki.archlinux.org/title/Main_page Great source for Linux reference
+* https://linux.die.net/ online man pages
+* https://www.opensuse.org/ the Distro Aiden uses
 
 ### C
 
@@ -119,6 +124,8 @@ Don't forget to contribute with the cool things that you find!
 
 * **https://www.blender.org/ The best 3D modeler**
 * **https://krita.org/en/ Digital painting** 
+* **https://vkguide.dev/** Learn Vulkan
+* **https://learnopengl.com/** Learn OpenGL
 
 
 ## Machine Learning
