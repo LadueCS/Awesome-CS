@@ -25,6 +25,8 @@ An awesome list of resources for people excited to learn about computer science!
 * https://cloud.exozy.me/s/x4YcdBYCKPTrfb9 More programming books
 * https://freecodecamp.org Free coding courses
 * https://howtuwu.exozy.me Programming and Linux how-to guides
+* https://www.tutorialspoint.com/index.htm Language tutorials. Has tutorials from Machine learning to Mobile Development
+* https://www.w3schools.com/ Language tutorials. Has the world's crappest code editor
 
 
 ## Python
@@ -120,6 +122,7 @@ An awesome list of resources for people excited to learn about computer science!
 * **https://codingbat.com/ Easy exercises to get you started**
 * **https://usaco.guide/ The complete USACO guide**
 * https://codeforces.com/ Great CP website with a vibrant community
+* 
 
 
 ## Computer Graphics
