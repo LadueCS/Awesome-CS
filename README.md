@@ -41,7 +41,8 @@ Don't forget to contribute with the cool things that you find!
 * **https://scratch.mit.edu/ Graphical programming language**
 * https://godotengine.org/ Easy-to-use game engine where you write “real” code!
 * https://www.pygame.org/news Python game engine
-* YouTube: Career advice, live streamed game-jams (aka speedrun making games in 1-4 days) 
+* YouTube: Career advice, live streamed game-jams (aka speedrun making games in 1-4 days)
+* https://www.minetest.net/ Highly hackable and moddable sandbox game
 
 
 ## Web Development
@@ -73,7 +74,7 @@ Don't forget to contribute with the cool things that you find!
 * **https://cybersecuritybase.mooc.fi/ A great resource for starting out**
 * https://www.reddit.com/r/learnprogramming/comments/32g958/looking_to_get_started_in_cybersecurity/cqazmcn/ Some more good advice
 * https://www.hackthebox.eu/ “A Massive Hacking Playground”
-* https://overthewire.org/
+* https://overthewire.org/ Hacking wargames!
 
 #### Cryptography
 
