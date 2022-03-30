@@ -110,7 +110,8 @@ An awesome list of resources for people excited to learn about computer science!
 
 * https://en.wikipedia.org/wiki/Reverse_engineering
 * https://blog.udemy.com/reverse-engineering-tutorial/
-* https://godbolt.org/ Compiler explorer 
+* https://godbolt.org/ Compiler explorer
+* https://hex-rays.com/ida-free/ A reverse engineering software, typicaly for analizing binarys.
 
 
 ## Competitive Programming
@@ -119,7 +120,6 @@ An awesome list of resources for people excited to learn about computer science!
 * **https://codingbat.com/ Easy exercises to get you started**
 * **https://usaco.guide/ The complete USACO guide**
 * https://codeforces.com/ Great CP website with a vibrant community
-* https://hex-rays.com/ida-free/ A reverse engineering software, typicaly for analizing binarys.
 
 
 ## Computer Graphics
