@@ -97,6 +97,8 @@ An awesome list of resources for people excited to learn about computer science!
 * https://wiki.archlinux.org/title/Main_page Great source for Linux reference
 * https://linux.die.net/ Online man pages
 * https://www.opensuse.org/ A great Linux distribution
+* https://www.debian.org/ A reliable Linux distribution
+* https://archlinux.org/ A DIY Linux distribution
 
 ### C
 
