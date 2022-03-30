@@ -112,6 +112,7 @@ Don't forget to contribute with the cool things that you find!
 * **https://codingbat.com/ Easy exercises to get you started**
 * **https://usaco.guide/ The complete USACO guide**
 * https://codeforces.com/ Great CP website with a vibrant community
+* https://hex-rays.com/ida-free/ A reverse engineering software, typicaly for analizing binarys.
 
 
 ## Computer Graphics
@@ -134,6 +135,7 @@ Don't forget to contribute with the cool things that you find!
 * https://github.com/k88hudson/git-flight-rules Git cheat sheets
 * https://training.github.com GitHub cheat sheets
 * https://goodfirstissues.com/ Find projects to contribute to
+* https://github.com/notSam25/ follow my git account
 
 ### Containers
 
