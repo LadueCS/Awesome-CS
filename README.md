@@ -28,8 +28,8 @@ Don't forget to contribute with the cool things that you find!
 ## Python
 
 * **https://github.com/LadueCS/Intro-to-Python The best™ introduction to Python**
-* https://pythondiscord.com/ The Python Discord
 * https://www.learnpython.org/ Another Python tutorial
+* https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/#learn-python-full-course-for-beginners More Python tutorials
 * **https://codingbat.com/python Learn Python by solving problems!**
 * https://wiki.python.org/moin/BeginnersGuide/NonProgrammers A lot of good tutorials
 * https://docs.python.org/3/tutorial/index.html Want an extra challenge? Try this advanced tutorial
