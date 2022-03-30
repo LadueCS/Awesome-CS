@@ -160,7 +160,6 @@ Don't forget to contribute with the cool things that you find!
 * https://tylervigen.com/spurious-correlations Data dredging
 * https://bellard.org/jslinux/ Linux entirely in your browser
 * https://demonstrations.wolfram.com/topics.php?Computation#3 Wolfram computational demos
-* https://replit.com/ Play around with Replit
 * https://suricrasia.online/iceberg/ Only visit this site when you have lots of time because you'll get sucked in!
 
 
