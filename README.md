@@ -31,6 +31,7 @@ An awesome list of resources for people excited to learn about computer science!
 * https://www.codecademy.com/ Another learn-how-to-code website
 * https://www.twilio.com/quest A cool game to learn programming
 * https://code.org/athome Another good site for absolute beginners
+* https://edabit.com/challenges Bite-sized programming challenges
 
 
 ## Python
