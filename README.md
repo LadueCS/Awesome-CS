@@ -27,6 +27,7 @@ An awesome list of resources for people excited to learn about computer science!
 * https://howtuwu.exozy.me Programming and Linux how-to guides
 * https://www.tutorialspoint.com/index.htm Language tutorials. Has tutorials from Machine learning to Mobile Development
 * https://www.w3schools.com/ Language tutorials. Has the world's crappest code editor
+* https://hourofcode.com/us/learn Learn how to code when you know absolutely nothing
 
 
 ## Python
