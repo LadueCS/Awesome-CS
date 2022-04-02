@@ -28,6 +28,9 @@ An awesome list of resources for people excited to learn about computer science!
 * https://www.tutorialspoint.com/index.htm Language tutorials. Has tutorials from Machine learning to Mobile Development
 * https://www.w3schools.com/ Language tutorials. Has the world's crappest code editor
 * https://hourofcode.com/us/learn Learn how to code when you know absolutely nothing
+* https://www.codecademy.com/ Another learn-how-to-code website
+* https://www.twilio.com/quest A cool game to learn programming
+* https://code.org/athome Another good site for absolute beginners
 
 
 ## Python
@@ -39,6 +42,9 @@ An awesome list of resources for people excited to learn about computer science!
 * https://wiki.python.org/moin/BeginnersGuide/NonProgrammers A lot of good tutorials
 * https://docs.python.org/3/tutorial/index.html Want an extra challenge? Try this advanced tutorial
 * https://www.jetbrains.com/pycharm/download/ Awesome Python IDE for large projects
+* https://www.youtube.com/watch?v=rfscVS0vtbw Python videos
+* https://www.twilio.com/quest/learn/python Learn Python through games
+* https://www.youtube.com/watch?v=XGf2GcyHPhc More Python videos
 
 
 ## Game Design
