@@ -46,6 +46,8 @@ An awesome list of resources for people excited to learn about computer science!
 * https://www.youtube.com/watch?v=rfscVS0vtbw Python videos
 * https://www.twilio.com/quest/learn/python Learn Python through games
 * https://www.youtube.com/watch?v=XGf2GcyHPhc More Python videos
+* https://coderslegacy.com/python/learning-the-basics/ Python basics
+* https://www.codecademy.com/learn/learn-python Yet another Python tutorial
 
 
 ## Game Design
@@ -130,7 +132,6 @@ An awesome list of resources for people excited to learn about computer science!
 * **https://codingbat.com/ Easy exercises to get you started**
 * **https://usaco.guide/ The complete USACO guide**
 * https://codeforces.com/ Great CP website with a vibrant community
-* 
 
 
 ## Computer Graphics
