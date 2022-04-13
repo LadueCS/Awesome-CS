@@ -11,19 +11,12 @@ An awesome list of resources for people excited to learn about computer science!
  
 * **https://drive.google.com/drive/folders/1LpbI-elangfhU9nngAM-0GAKmmUCvtiB Watch every meeting recording!**
 * **https://stackoverflow.com/ Godly resource for looking up questions**
-* **https://replit.com/ Great online editor for many programming languages**
-* **https://exozy.me/ Programming community and computing resources**
-* https://www.gitpod.io/ Online IDE that gives you a Linux container where YOU ARE ROOT. ❤️
-* **https://code.visualstudio.com Awesome IDE for many languages (free, works everywhere, highly customizable)** (also [VSCodium](https://vscodium.com/))
-* **https://neovim.io/ Emacs? More like Ewmacs**
-* https://www.spacemacs.org/ Emacs? More like vim(acs) with a good theme. Also, it's really good
-* https://kate-editor.org/ Super fast and powerful editor that just works™
-* https://code.org/ Coding tutorials
 * **https://github.com/LadueCS Ladue CS GitHub**
 * https://discord.gg/vK4yFa4avF Ladue CS Discord guild
 * **https://matrix.to/#/#ladue-computer-science:exozy.me Ladue CS Matrix space**
 * https://github.com/EbookFoundation/free-programming-books Free programming books
 * https://cloud.exozy.me/s/x4YcdBYCKPTrfb9 More programming books
+* https://code.org/ Coding tutorials
 * https://freecodecamp.org Free coding courses
 * https://howtuwu.exozy.me Programming and Linux how-to guides
 * https://www.tutorialspoint.com/index.htm Language tutorials. Has tutorials from Machine learning to Mobile Development
@@ -31,9 +24,20 @@ An awesome list of resources for people excited to learn about computer science!
 * https://hourofcode.com/us/learn Learn how to code when you know absolutely nothing
 * https://www.codecademy.com/ Another learn-how-to-code website
 * https://www.twilio.com/quest A cool game to learn programming
-* https://code.org/athome Another good site for absolute beginners
 * https://edabit.com/challenges Bite-sized programming challenges
 * https://missing.csail.mit.edu/ CS topics that you don't learn in school
+* https://wizardzines.com/ Graphical explanations of CS topics
+
+
+## Development tools
+
+* **https://replit.com/ Great online editor for many programming languages**
+* **https://exozy.me/ Programming community and computing resources**
+* https://www.gitpod.io/ Online IDE that gives you a Linux container where YOU ARE ROOT. ❤️
+* **https://code.visualstudio.com Awesome IDE for many languages (free, works everywhere, highly customizable)** (also [VSCodium](https://vscodium.com/))
+* **https://neovim.io/ Emacs? More like Ewmacs**
+* https://www.spacemacs.org/ Emacs? More like vim(acs) with a good theme. Also, it's really good
+* https://kate-editor.org/ Super fast and powerful editor that just works™
 
 
 ## Python
