@@ -32,6 +32,7 @@ An awesome list of resources for people excited to learn about computer science!
 * https://www.twilio.com/quest A cool game to learn programming
 * https://code.org/athome Another good site for absolute beginners
 * https://edabit.com/challenges Bite-sized programming challenges
+* https://missing.csail.mit.edu/ CS topics that you don't learn in school
 
 
 ## Python
@@ -150,12 +151,13 @@ An awesome list of resources for people excited to learn about computer science!
 
 ## Software Engineering
 
-### Git and GitHub
+### Git, GitHub, and Gitea
 
 * https://ohmygit.org/ A fun game to learn Git, the ultimate time machine
 * https://github.com/k88hudson/git-flight-rules Git cheat sheets
 * https://training.github.com GitHub cheat sheets
 * https://goodfirstissues.com/ Find projects to contribute to
+* **https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/ Learn the basics of Git**
 
 ### Containers
 
