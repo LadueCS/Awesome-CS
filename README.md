@@ -71,7 +71,7 @@ An awesome list of resources for people excited to learn about computer science!
 * https://www.w3schools.com/ Web dev reference
 * https://developer.mozilla.org/en-US/ Advanced web dev reference
 * https://roadmap.sh/ Web developer roadmaps
-* https://nextjs.org/ Easy React JavaScript framework 
+* https://nextjs.org/ Easy React JavaScript framework
 
 ### Frontend
 
@@ -80,16 +80,16 @@ An awesome list of resources for people excited to learn about computer science!
 * https://feathericons.com/ Another set of nice icons
 * https://devicon.dev/ Development related icons. MIT license!
 * https://reactjs.org/ Modern UI library
+* https://codepen.io/ Front-end social development environment
 
 ### Backend
 
-* https://www.djangoproject.com/ Python web framework 
-
+* https://www.djangoproject.com/ Python web framework
+* http://expressjs.com/ Node.js web framework
 
 ## Cybersecurity
 
 * **https://drive.google.com/drive/folders/1_gRzNS1bUKReRs2z8rn8g7w1ZA30mkcA Google Drive folder with lots of resources**
-* https://drpcyber.blogspot.com/ Webpage for the HS Cybersecurity course
 * https://en.wikipedia.org/wiki/Computer_security A nice overview of cybersecurity
 * https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content A long list of free cybersecurity resources
 * https://www.reddit.com/r/learnprogramming/comments/5bam56/i_want_to_learn_cyber_security_where_should_i/ Some good advice
