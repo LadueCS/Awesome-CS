@@ -12,6 +12,7 @@ An awesome list of resources for people excited to learn about computer science!
 * **https://drive.google.com/drive/folders/1LpbI-elangfhU9nngAM-0GAKmmUCvtiB Watch every meeting recording!**
 * **https://stackoverflow.com/ Godly resource for looking up questions**
 * **https://replit.com/ Great online editor for many programming languages**
+* **https://exozy.me/ Programming community and computing resources**
 * https://www.gitpod.io/ Online IDE that gives you a Linux container where YOU ARE ROOT. ❤️
 * **https://code.visualstudio.com Awesome IDE for many languages (free, works everywhere, highly customizable)** (also [VSCodium](https://vscodium.com/))
 * **https://neovim.io/ Emacs? More like Ewmacs**
@@ -158,6 +159,7 @@ An awesome list of resources for people excited to learn about computer science!
 * https://training.github.com GitHub cheat sheets
 * https://goodfirstissues.com/ Find projects to contribute to
 * **https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/ Learn the basics of Git**
+* https://git.exozy.me/ Free and open source code hosting
 
 ### Containers
 
