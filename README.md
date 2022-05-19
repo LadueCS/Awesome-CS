@@ -90,6 +90,7 @@ An awesome list of resources for people excited to learn about computer science!
 ## Cybersecurity
 
 * **https://drive.google.com/drive/folders/1_gRzNS1bUKReRs2z8rn8g7w1ZA30mkcA Google Drive folder with lots of resources**
+* **https://sites.psu.edu/hacking/** Hacking isn't magical
 * https://en.wikipedia.org/wiki/Computer_security A nice overview of cybersecurity
 * https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content A long list of free cybersecurity resources
 * https://www.reddit.com/r/learnprogramming/comments/5bam56/i_want_to_learn_cyber_security_where_should_i/ Some good advice
