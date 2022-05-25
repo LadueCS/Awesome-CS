@@ -11,7 +11,7 @@ An awesome list of resources for people excited to learn about computer science!
  
 * **https://drive.google.com/drive/folders/1LpbI-elangfhU9nngAM-0GAKmmUCvtiB Watch every meeting recording!**
 * **https://stackoverflow.com/ Godly resource for looking up questions**
-* **https://github.com/LadueCS Ladue CS GitHub**
+* **https://codeberg.org/LadueCS Ladue CS Codeberg organization**
 * https://discord.gg/vK4yFa4avF Ladue CS Discord guild
 * **https://matrix.to/#/#ladue-computer-science:exozy.me Ladue CS Matrix space**
 * https://github.com/EbookFoundation/free-programming-books Free programming books
@@ -42,7 +42,7 @@ An awesome list of resources for people excited to learn about computer science!
 
 ## Python
 
-* **https://github.com/LadueCS/Intro-to-Python The best™ introduction to Python**
+* **https://codeberg.org/LadueCS/Intro-to-Python The best™ introduction to Python**
 * https://www.learnpython.org/ Another Python tutorial
 * https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/#learn-python-full-course-for-beginners More Python tutorials
 * **https://codingbat.com/python Learn Python by solving problems!**
