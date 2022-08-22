@@ -60,7 +60,7 @@ An awesome list of resources for people excited to learn about computer science!
 ## Game Design
 
 * **https://scratch.mit.edu/ Graphical programming language**
-* https://godotengine.org/ Easy-to-use game engine where you write “real” code!
+* https://godotengine.org/ Easy-to-use game engine where you write "real" code!
 * https://www.pygame.org/news Python game engine
 * YouTube: Career advice, live streamed game-jams (aka speedrun making games in 1-4 days)
 * https://www.minetest.net/ Highly hackable and moddable sandbox game
@@ -97,28 +97,15 @@ An awesome list of resources for people excited to learn about computer science!
 * https://www.reddit.com/r/learnprogramming/comments/5bam56/i_want_to_learn_cyber_security_where_should_i/ Some good advice
 * **https://cybersecuritybase.mooc.fi/ A great resource for starting out**
 * https://www.reddit.com/r/learnprogramming/comments/32g958/looking_to_get_started_in_cybersecurity/cqazmcn/ Some more good advice
-* https://www.hackthebox.eu/ “A Massive Hacking Playground”
+* https://www.hackthebox.eu/ "A Massive Hacking Playground"
 * https://overthewire.org/ Hacking wargames!
 
 #### Cryptography
 
-* https://en.wikipedia.org/wiki/Cryptography Good overview to find topics that you’re interested in learning more about
+* https://en.wikipedia.org/wiki/Cryptography Good overview to find topics that you're interested in learning more about
 * **http://index-of.co.uk/Hacking-Coleccion/164%20-%20The%20Code%20Book%20How%20To%20Make%20It,%20Break%20It,%20Hack%20It,%20Crack%20It%20%5B-PUNISHER-%5D.pdf The best cryptography book. Very accessible too.**
 * https://www.tutorialspoint.com/cryptography/index.htm Cryptography tutorial
 * https://cryptohack.org/ Learn modern cryptography!
-
-### Linux
-
-* https://www.kali.org/docs/wsl/win-kex/ Kali on WSL setup guide
-* https://www.tutorialspoint.com/kali_linux/index.htm Kali Linux tutorial
-* https://medium.com/quick-code/top-tutorials-to-learn-kali-linux-for-beginners-131a654b81ad Kali Linux tutorial
-* **https://ubuntu.com/download/desktop/thank-you?version=20.04.2.0&architecture=amd64 If you want a fun challenge, try installing Ubuntu on your computer and play around with it!**
-* https://askubuntu.com/ Basically Stack Overflow for Ubuntu and Linux
-* https://wiki.archlinux.org/title/Main_page Great source for Linux reference
-* https://linux.die.net/ Online man pages
-* https://www.opensuse.org/ A great Linux distribution
-* https://www.debian.org/ A reliable Linux distribution
-* https://archlinux.org/ A DIY Linux distribution
 
 ### C
 
@@ -132,6 +119,21 @@ An awesome list of resources for people excited to learn about computer science!
 * https://blog.udemy.com/reverse-engineering-tutorial/
 * https://godbolt.org/ Compiler explorer
 * https://hex-rays.com/ida-free/ A reverse engineering software, typicaly for analizing binarys.
+
+
+## Linux
+
+* **https://ubuntu.com/tutorials/command-line-for-beginners** A great command line tutorial
+* https://www.kali.org/docs/wsl/win-kex/ Kali on WSL setup guide
+* https://www.tutorialspoint.com/kali_linux/index.htm Kali Linux tutorial
+* https://medium.com/quick-code/top-tutorials-to-learn-kali-linux-for-beginners-131a654b81ad Kali Linux tutorial
+* **https://ubuntu.com/download/desktop/thank-you?version=20.04.2.0&architecture=amd64 If you want a fun challenge, try installing Ubuntu on your computer and play around with it!**
+* https://askubuntu.com/ Basically Stack Overflow for Ubuntu and Linux
+* https://wiki.archlinux.org/title/Main_page Great source for Linux reference
+* https://linux.die.net/ Online man pages
+* https://www.opensuse.org/ A great Linux distribution
+* https://www.debian.org/ A reliable Linux distribution
+* https://archlinux.org/ A DIY Linux distribution
 
 
 ## Competitive Programming
@@ -174,7 +176,7 @@ An awesome list of resources for people excited to learn about computer science!
 
 ## Demos
 
-* https://copy.sh/life/ Conway’s Game of Life
+* https://copy.sh/life/ Conway's Game of Life
 * https://docs.google.com/spreadsheets/d/1RAdwx4OoQvI5ARWrH9tEvV2rNhrHj1qSuQViTO4igm8/edit?usp=sharing Game of Life in Google Sheets
 * https://www.sixdegreesofwikipedia.com/ Six Degrees of Wikipedia
 * https://thispersondoesnotexist.com/ AI face generation
@@ -204,5 +206,5 @@ An awesome list of resources for people excited to learn about computer science!
 * **https://www.reddit.com/r/programmingmemes/ Memes! Memes! Memes!**
 * https://www.youtube.com/c/Junferno Computer science, deadpan delivery, and anime all blended into one.
 * https://pastebin.com/buCDXqP5 CS jokes
-* https://h313.info/blog/github/anime/google-cloud/2020/07/31/does-having-an-anime-profile-picture-make-you-a-better-programmer.html Disclaimer: It doesn’t
-* https://github.com/laynH/Anime-Girls-Holding-Programming-Books (OK I’ll stop with the anime stuff)
+* https://h313.info/blog/github/anime/google-cloud/2020/07/31/does-having-an-anime-profile-picture-make-you-a-better-programmer.html Disclaimer: It doesn't
+* https://github.com/laynH/Anime-Girls-Holding-Programming-Books (OK I'll stop with the anime stuff)
