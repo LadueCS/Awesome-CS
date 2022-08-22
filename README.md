@@ -28,6 +28,7 @@ An awesome list of resources for people excited to learn about computer science!
 * https://missing.csail.mit.edu/ CS topics that you don't learn in school
 * https://wizardzines.com/ Graphical explanations of CS topics
 * **https://tube.exozy.me/w/6Ct47XwX92v4vCQdv15z2w** Everything you ever wanted to know about CS, answered by LadueCS club members
+* https://www.digitalocean.com/community/tutorials Development tutorials
 
 
 ## Development tools
