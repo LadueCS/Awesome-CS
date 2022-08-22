@@ -2,7 +2,7 @@
 
 An awesome list of resources for people excited to learn about computer science!
 
-**Don't forget to contribute with the cool things that you find!** (If you don't have a GitHub account, use [this Google Doc](https://docs.google.com/document/d/1YzSpJcuwkLpyjrbBmhpGDhCrt-UuiFpW7y24-8CdExs/edit) to contribute)
+**Don't forget to contribute with the cool things that you find!** (If you don't have a Codeberg account, use [this Google Doc](https://docs.google.com/document/d/1YzSpJcuwkLpyjrbBmhpGDhCrt-UuiFpW7y24-8CdExs/edit) to contribute)
 
 ***Bold*** *items are highly recommended!*
 
