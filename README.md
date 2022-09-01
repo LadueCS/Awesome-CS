@@ -209,3 +209,62 @@ An awesome list of resources for people excited to learn about computer science!
 * https://pastebin.com/buCDXqP5 CS jokes
 * https://h313.info/blog/github/anime/google-cloud/2020/07/31/does-having-an-anime-profile-picture-make-you-a-better-programmer.html Disclaimer: It doesn't
 * https://github.com/laynH/Anime-Girls-Holding-Programming-Books (OK I'll stop with the anime stuff)
+
+## Things every programmer should know
+
+Recommendation: you should be able to at least define every term below.
+
+- Theory
+    - Boolean logic
+    - Binary
+    - KB, MB, GB
+    - Public-key cryptography
+- Hardware
+    - ISA
+        - x86_64
+        - ARM
+    - CPU
+    - GPU
+    - RAM
+    - Storage
+        - SSD
+        - HDD
+- Software
+    - Operating systems
+        - Linux
+    - Shells
+        - Bash
+    - Virtualization
+        - Virtual machines
+        - Containers
+    - Programming languagues
+        - Machine languague and binaries
+        - Assembly
+        - C
+        - Python
+        - Functional programming
+    - Version control
+        - Git
+        - Code-hosting platforms
+    - Markdown
+    - Databases
+        - SQL
+- Networks
+    - IP
+        - IPv4
+        - NAT
+        - IPv6
+    - TCP
+        - HTTP
+            - HTML
+            - CSS
+            - JavaScript
+        - SSH
+    - UDP
+    - Ports
+    - Firewalls
+    - Routers
+    - Server-client model
+    - Peer-to-peer model
+    - Blockchain
+    - VPNs
