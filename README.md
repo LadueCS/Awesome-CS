@@ -82,6 +82,7 @@ An awesome list of resources for people excited to learn about computer science!
 * https://feathericons.com/ Another set of nice icons
 * https://devicon.dev/ Development related icons. MIT license!
 * https://reactjs.org/ Modern UI library
+* https://mui.com/ React UI library
 * https://codepen.io/ Front-end social development environment
 
 ### Backend
@@ -108,11 +109,12 @@ An awesome list of resources for people excited to learn about computer science!
 * https://www.tutorialspoint.com/cryptography/index.htm Cryptography tutorial
 * https://cryptohack.org/ Learn modern cryptography!
 
-### C
+### C/C++
 
 * https://www.learn-c.org/ Learn C
 * https://www.tutorialspoint.com/cprogramming/index.htm C tutorial
 * https://www.chiark.greenend.org.uk/\~sgtatham/cdescent/ A good guide for people coming from higher-level languages like Python
+* https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83 C++ videos
 
 ### Reverse Engineering
 
