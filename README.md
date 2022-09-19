@@ -90,6 +90,7 @@ An awesome list of resources for people excited to learn about computer science!
 * https://www.djangoproject.com/ Python web framework
 * http://expressjs.com/ Node.js web framework
 
+
 ## Cybersecurity
 
 * **https://drive.google.com/drive/folders/1_gRzNS1bUKReRs2z8rn8g7w1ZA30mkcA Google Drive folder with lots of resources**
@@ -108,13 +109,6 @@ An awesome list of resources for people excited to learn about computer science!
 * **http://index-of.co.uk/Hacking-Coleccion/164%20-%20The%20Code%20Book%20How%20To%20Make%20It,%20Break%20It,%20Hack%20It,%20Crack%20It%20%5B-PUNISHER-%5D.pdf The best cryptography book. Very accessible too.**
 * https://www.tutorialspoint.com/cryptography/index.htm Cryptography tutorial
 * https://cryptohack.org/ Learn modern cryptography!
-
-### C/C++
-
-* https://www.learn-c.org/ Learn C
-* https://www.tutorialspoint.com/cprogramming/index.htm C tutorial
-* https://www.chiark.greenend.org.uk/\~sgtatham/cdescent/ A good guide for people coming from higher-level languages like Python
-* https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83 C++ videos
 
 ### Reverse Engineering
 
@@ -137,6 +131,14 @@ An awesome list of resources for people excited to learn about computer science!
 * https://www.opensuse.org/ A great Linux distribution
 * https://www.debian.org/ A reliable Linux distribution
 * https://archlinux.org/ A DIY Linux distribution
+
+
+## C/C++
+
+* https://www.learn-c.org/ Learn C
+* https://www.tutorialspoint.com/cprogramming/index.htm C tutorial
+* https://www.chiark.greenend.org.uk/\~sgtatham/cdescent/ A good guide for people coming from higher-level languages like Python
+* https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83 C++ videos
 
 
 ## Competitive Programming
