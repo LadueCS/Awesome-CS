@@ -218,57 +218,87 @@ An awesome list of resources for people excited to learn about computer science!
 
 Recommendation: you should be able to at least define every term below.
 
-- Theory
-    - Boolean logic
-    - Binary
-    - KB, MB, GB
-    - Public-key cryptography
-- Hardware
-    - ISA
-        - x86_64
-        - ARM
-    - CPU
-    - GPU
-    - RAM
-    - Storage
-        - SSD
-        - HDD
-- Software
-    - Operating systems
-        - Linux
-    - Shells
-        - Bash
-    - Virtualization
-        - Virtual machines
-        - Containers
-    - Programming languagues
-        - Machine languague and binaries
-        - Assembly
-        - C
-        - Python
-        - Functional programming
-    - Version control
-        - Git
-        - Code-hosting platforms
-    - Markdown
-    - Databases
-        - SQL
-- Networks
-    - IP
-        - IPv4
-        - NAT
-        - IPv6
-    - TCP
-        - HTTP
-            - HTML
-            - CSS
-            - JavaScript
-        - SSH
-    - UDP
-    - Ports
-    - Firewalls
-    - Routers
-    - Server-client model
-    - Peer-to-peer model
-    - Blockchain
-    - VPNs
+* Theory
+    * Boolean logic
+    * Binary
+    * KB, MB, GB
+    * Public-key cryptography
+* Hardware
+    * ISA
+        * x86_64
+        * ARM
+    * CPU
+    * GPU
+    * RAM
+    * Storage
+        * SSD
+        * HDD
+* Software
+    * Operating systems
+        * Linux
+    * Shells
+        * Bash
+    * Virtualization
+        * Virtual machines
+        * Containers
+    * Programming languagues
+        * Machine languague and binaries
+        * Assembly
+        * C
+        * Python
+        * Functional programming
+    * Version control
+        * Git
+        * Code-hosting platforms
+    * Markdown
+    * Databases
+        * SQL
+* Networks
+    * IP
+        * IPv4
+        * NAT
+        * IPv6
+    * TCP
+        * HTTP
+            * HTML
+            * CSS
+            * JavaScript
+        * SSH
+    * UDP
+    * Ports
+    * Firewalls
+    * Routers
+    * Server-client model
+    * Peer-to-peer model
+    * Blockchain
+    * VPNs
+
+## Bonus!
+
+### Interesting terminal commands
+
+* telnet towel.blinkenlights.nl
+* apt moo
+* curl -L bit.do/neofetch | bash
+* telnet freechess.org
+* make friends
+* curl https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh | bash
+* curl parrot.live
+* LC_ALL=C tr -c "[:digit:]" " " < /dev/urandom | dd cbs=$COLUMNS conv=unblock | GREP_COLOR="1;32" grep --color "[^ ]"
+* curl -L https://github.com/GitSquared/edex-ui/releases/download/v2.2.8/eDEX-UI-Linux-x86_64.AppImage -O && chmod +x eDEX-UI-Linux-x86_64.AppImage && ./eDEX-UI-Linux-x86_64.AppImage
+
+### Interesting Python stuff
+
+* from __future__ import braces
+* import antigravity
+* hash(float('inf'))
+* import __hello__
+* import this
+
+### DANGEROUS terminal commands (in increasing order of nastiness)
+* sudo dd if=/dev/random of=/proc/sysrq-trigger
+* . .*y
+* echo "source .bashrc" >> .bashrc
+* sudo rm -rf $DIRECTROY/*
+* :(){ :|:& };:
+
