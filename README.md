@@ -202,6 +202,7 @@ An awesome list of resources for people excited to learn about computer science!
 * https://demonstrations.wolfram.com/topics.php?Computation#3 Wolfram computational demos
 * https://suricrasia.online/iceberg/ Only visit this site when you have lots of time because you'll get sucked in!
 * https://www.bamsoftware.com/hacks/zipbomb/ Zip BOMBS
+* https://www.stilldrinking.org/programming-sucks Programming sucks
 
 
 ## Other Good Stuff
