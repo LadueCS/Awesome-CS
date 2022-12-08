@@ -51,12 +51,12 @@ An awesome list of resources for people excited to learn about computer science!
 * https://wiki.python.org/moin/BeginnersGuide/NonProgrammers A lot of good tutorials
 * https://docs.python.org/3/tutorial/index.html Want an extra challenge? Try this advanced tutorial
 * https://www.jetbrains.com/pycharm/download/ Awesome Python IDE for large projects
-* https://www.youtube.com/watch?v=rfscVS0vtbw Python videos
+* https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB Python videos
 * https://www.twilio.com/quest/learn/python Learn Python through games
 * https://www.youtube.com/watch?v=XGf2GcyHPhc More Python videos
 * https://coderslegacy.com/python/learning-the-basics/ Python basics
 * https://www.codecademy.com/learn/learn-python Yet another Python tutorial
-
+* https://crumb.sh/F65R4QZRHmo Online Python interpreter
 
 ## Game Design
 
