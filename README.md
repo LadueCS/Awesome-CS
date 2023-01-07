@@ -12,7 +12,7 @@ An awesome list of resources for people excited to learn about computer science!
 * [LadueCS Google Classroom](https://laduecs.club/join.html) Join Google Classroom
 * **[Stack Overflow](https://stackoverflow.com/) Godly resource for looking up questions**
 * **[LadueCS Codeberg](https://codeberg.org/LadueCS) Ladue CS repositories**
-* [Discord](https://discord.gg/vK4yFa4avF) Ladue CS Discord invite
+* [Discord](https://discord.gg/d9YkE9pPCv) Ladue CS Discord invite
 * **[Matrix](https://matrix.to/#/#ladue-computer-science:exozy.me) Ladue CS Matrix space**
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) Free programming ebooks
 * [cloud.exozy.me/s/x4YcdBYCKPTrfb9](https://cloud.exozy.me/s/x4YcdBYCKPTrfb9) More programming books
