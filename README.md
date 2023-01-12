@@ -158,7 +158,6 @@ An awesome list of resources for people excited to learn about computer science!
 * **[Neural Networks - 3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks) A overview and interactive series of neural networks**
 * **[Nerual networks and deep learning](http://neuralnetworksanddeeplearning.com/) A nice book about neural networks**
 * **[OpenAI API](https://beta.openai.com/examples) Cool programming and language AI models by OpenAI**
-* **[OpenAI API](https://beta.openai.com/examples) Cool programming and language AI models by OpenAI**
 
 
 ## Software Engineering
