@@ -39,7 +39,6 @@ An awesome list of resources for people excited to learn about computer science!
 * **[Neovim](https://neovim.io/) Emacs? More like Ewmacs**
 * [Spacemacs](https://www.spacemacs.org/) Emacs? More like vim(acs) with a good theme. Also, it's really good
 * [Kate](https://kate-editor.org/) Super fast and powerful editor that just works™
-* **[OpenAI API](https://beta.openai.com/examples) Cool programming and language AI models by OpenAI**
 
 
 ## Python
@@ -149,8 +148,8 @@ An awesome list of resources for people excited to learn about computer science!
 
 * **[Blender](https://www.blender.org/) The best 3D modeler**
 * **[Krita](https://krita.org/en/) Digital painting** 
-* **[Learn OpenGL](https://learnopengl.com/)** Learn OpenGL
-* **[Vulkan](https://vkguide.dev/)** Learn Vulkan API
+* [Learn OpenGL](https://learnopengl.com/) Learn OpenGL
+* [Vulkan](https://vkguide.dev/) Learn Vulkan API
 
 
 ## Machine Learning
@@ -164,11 +163,11 @@ An awesome list of resources for people excited to learn about computer science!
 
 ### Git, GitHub, and Gitea
 
-* [Oh My Git!](https://ohmygit.org/) A fun game to learn Git, the ultimate time machine
+* **[Oh My Git!](https://ohmygit.org/) A fun game to learn Git, the ultimate time machine**
 * [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) Git cheat sheets
 * [GitHub Training Kit](https://training.github.com) GitHub cheat sheets
 * [Good First Issues](https://goodfirstissues.com/) Find projects to contribute to
-* **[Learn the Basics of Git in Under 10 Minutes - freeCodeCamp.org](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/) Learn the basics of Git**
+* [Learn the Basics of Git in Under 10 Minutes](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/) Learn the basics of Git
 * [exogit](https://git.exozy.me/) Free and open source code hosting
 
 ### Containers
